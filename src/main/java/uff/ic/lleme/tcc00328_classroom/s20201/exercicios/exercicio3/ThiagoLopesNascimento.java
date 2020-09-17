@@ -30,7 +30,7 @@ public class ThiagoLopesNascimento {
         }
         
         do{
-            resto = num1 - num2;
+            resto = num1 % num2;
             num1 = num2;
             num2 = resto;
         }while(num1 % num2 != 0);
