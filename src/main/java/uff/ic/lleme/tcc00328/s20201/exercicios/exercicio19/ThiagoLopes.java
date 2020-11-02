@@ -44,6 +44,7 @@ public class ThiagoLopes {
                     System.out.println("O jogador perdeu!!");
                     break;
                 }
+                System.out.println("Resultado diferente do seu ponto e de 7, tente novamente.");
             }
         }
     }
