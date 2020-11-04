@@ -1,0 +1,5 @@
+10.00 lasagna
+15.00 pizza
+19.00 filet com fritas
+5.00 coca-cola
+5.00 sprite
