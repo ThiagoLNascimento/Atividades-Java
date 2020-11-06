@@ -1,0 +1,9 @@
+#!/bin/bash
+echo off
+export WORK="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
+cd "$WORK"
+
+git pull
+git add -A
+git commit -am "Updates."
+git push
