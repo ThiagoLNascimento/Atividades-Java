@@ -1,5 +1,4 @@
 #!/bin/bash
-echo off
 export WORK="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 cd "$WORK"
 
