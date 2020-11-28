@@ -208,6 +208,7 @@ abstract class Main {
             }
         }catch(ArrayIndexOutOfBoundsException | NullPointerException e){           
         }
+        troca = true;
         if(desempate == 0){
             try{
                 for(i = 0; i < k; i ++){
