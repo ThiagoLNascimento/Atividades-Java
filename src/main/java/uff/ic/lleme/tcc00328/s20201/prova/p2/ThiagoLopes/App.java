@@ -21,7 +21,6 @@ public class App {
         dic.adicionar("obra");
         dic.palavras.get(1).adicionarSignificado("aquilo que resulta de um trabalho, de uma ação.");
         dic.palavras.get(1).adicionarSignificado(dic.palavras.get(0).sinonimo.get(1));
-        //Dicionario.palavras.get(1).adicionarSignificado("obra de cunho literário, artístico, científico etc. que constitui um volume [Para fins de documentação, é uma publicação não periódica com mais de 48 páginas, além da capa.].");
 
         dic.listar();
                 
