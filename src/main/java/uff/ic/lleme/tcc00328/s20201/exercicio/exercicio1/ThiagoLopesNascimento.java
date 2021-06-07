@@ -12,6 +12,6 @@ package uff.ic.lleme.tcc00328.s20201.exercicio.exercicio1;
 public class ThiagoLopesNascimento {
     
         public static void main(String[] args) {
-        System.out.println("Alô mundo!");
+        System.out.println("Alô mundo!!!");
     }
 }
